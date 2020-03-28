@@ -1,26 +1,42 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import './App.css'
+import { connect } from 'react-redux'
+import { counterResetAll, counterCreate } from './actions'
+import CounterItem from './CounterItem'
 
-function App() {
+const sumAll = counters => counters.reduce((acc, cur) => acc + cur.value, 0)
+
+function App (props) {
+  const { counters } = props
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      Total {sumAll(counters)}
+
+      <button onClick={props.counterResetAll}>RESET ALL</button>
+
+      {counters.map(el => <CounterItem key={el.id} item={el}/>)}
+
+      <hr/>
+
+      <button onClick={() => props.counterCreate({
+        name: 'New Counter',
+        id: 123,
+        value: 43,
+      })}>CREATE
+      </button>
+
     </div>
-  );
+  )
 }
 
-export default App;
+const mapStateToProps = state => ({
+  counters: state.counters,
+})
+
+const mapDispatchToPros = dispatch => ({
+  counterResetAll: () => dispatch(counterResetAll()),
+  counterCreate: (args) => dispatch(counterCreate(args)),
+})
+
+export default connect(mapStateToProps, mapDispatchToPros)(App)

@@ -1,9 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e6573ff-9774-4463-88fa-26fbf88904a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/redux-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z66gnW8EpgzjR7lLMdRXHHTbSw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e6573ff-9774-4463-88fa-26fbf88904a5" name="Default Changelist" comment="" />
+      <created>1584147309437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584147309437</updated>
+      <workItem from="1584147311739" duration="433000" />
+      <workItem from="1584147783006" duration="6754000" />
+      <workItem from="1585337098266" duration="11598000" />
+    </task>
+    <task id="LOCAL-00001" summary="Bump minimist from 1.2.0 to 1.2.2">
+      <created>1585365223701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585365223702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bump minimist from 1.2.0 to 1.2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bump minimist from 1.2.0 to 1.2.2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="237" y="23" width="778" height="745" key="CommitChangelistDialog2" timestamp="1585365222390">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="223" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1584199532762" />
+    <state x="237" y="23" width="778" height="745" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1585365222390" />
+    <state x="136" y="66" key="DiffContextDialog" timestamp="1585364114348">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="136" y="66" key="DiffContextDialog/0.0.1360.768@0.0.1360.768" timestamp="1585364114348" />
+    <state width="1339" height="201" key="GridCell.Tab.0.bottom" timestamp="1585338661134">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1585338661134" />
+    <state width="1339" height="201" key="GridCell.Tab.0.center" timestamp="1585338661124">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1585338661124" />
+    <state width="1339" height="201" key="GridCell.Tab.0.left" timestamp="1585338661121">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1585338661121" />
+    <state width="1339" height="201" key="GridCell.Tab.0.right" timestamp="1585338661132">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1585338661132" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1584149391065">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1584149391065" />
+    <state x="280" y="124" key="Vcs.Push.Dialog.v2" timestamp="1585365227364">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="280" y="124" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1585365227364" />
+    <state x="395" y="182" key="git4idea.merge.GitPullDialog" timestamp="1585364195095">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="395" y="182" key="git4idea.merge.GitPullDialog/0.0.1360.768@0.0.1360.768" timestamp="1585364195095" />
   </component>
 </project>
