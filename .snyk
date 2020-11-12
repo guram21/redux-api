@@ -1622,6 +1622,8 @@ patch:
         patched: '2020-09-27T06:30:28.993Z'
     - snyk > snyk-mvn-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
         patched: '2020-09-27T06:30:28.993Z'
+    - snyk > snyk-docker-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-11-04T17:29:46.000Z'
     - react-scripts > jest-circus > @babel/traverse > lodash:
         patched: '2020-11-03T22:03:43.135Z'
     - react-scripts > jest-circus > @babel/traverse > @babel/generator > lodash:
