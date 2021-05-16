@@ -2242,3 +2242,5 @@ patch:
         patched: '2021-04-19T20:29:26.425Z'
     - snyk > snyk-nodejs-lockfile-parser > @yarnpkg/core > lodash:
         patched: '2021-04-19T20:35:14.624Z'
+    - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > @yarnpkg/core > lodash:
+        patched: '2021-05-16T18:11:23.397Z'
