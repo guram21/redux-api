@@ -9280,10 +9280,10 @@ slash@^4.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
-snyk@^1.813.0:
-  version "1.834.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.834.0.tgz#58403799358c953f44e53ed8ce733d42c62ca77e"
-  integrity sha512-0XKshpV1azNRxOKwFV+NuR/ukT0OAhsUZI/jSN6O2XIQ5lYWXC8wNgvtpJ4pmhekMjBCj4rH6mxYDo2USWEZ1g==
+snyk@^1.855.0:
+  version "1.868.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.868.0.tgz#b9b189cbac09c82b909f566649c00ef933e1e087"
+  integrity sha512-iIzTIgQELgCmqvi3XBdKf+6ButRQ/SKCvR91DJM2SKdnIrRAQykNU2NAzBY5IfM/RHcPqCxlCgeJxTumiswv9g==
 
 sockjs@^0.3.21:
   version "0.3.21"
