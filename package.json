@@ -13,7 +13,7 @@
     "redux": "^4.2.0",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
-    "snyk": "^1.1001.0"
+    "snyk": "^1.1025.0"
   },
   "scripts": {
     "start": "react-scripts start",
