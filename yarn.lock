@@ -9431,10 +9431,10 @@ slash@^4.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
-snyk@^1.1220.0:
-  version "1.1232.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1232.0.tgz#a4d11338ee82d026a7be214b8d109c5e659657a9"
-  integrity sha512-6mckR8GkhEhfh1yIyrt1nR8KDvS1vjlhgVyS75M66xxrM6TyA55/im4soQWvYPPpvg39ZBKqH48t8usrLI9CAQ==
+snyk@^1.1236.0:
+  version "1.1243.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1243.0.tgz#d1613db42a2fd7480be67305d8f2dc937a54da4c"
+  integrity sha512-6//wRnkyzwO3+Pc0uFrB9fDV0fEBsv78WzU2YcYB4wJ9wL12UP32r8qzGB4DpZJdpnYNQ/k+JeohnGFNON5j7w==
   dependencies:
     "@sentry/node" "^7.36.0"
     global-agent "^3.0.0"
