@@ -4,16 +4,16 @@
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^6.4.2",
-    "@testing-library/react": "^14.1.2",
+    "@testing-library/react": "^14.2.1",
     "@testing-library/user-event": "^14.5.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-redux": "^9.0.2",
+    "react-redux": "^9.1.0",
     "react-scripts": "5.0.1",
     "redux": "^5.0.0",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^3.1.0",
-    "snyk": "^1.1267.0"
+    "snyk": "^1.1276.0"
   },
   "scripts": {
     "start": "react-scripts start",
