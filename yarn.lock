@@ -2748,20 +2748,6 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@testing-library/dom@^10.0.0":
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-10.1.0.tgz#2d073e49771ad614da999ca48f199919e5176fb6"
-  integrity sha512-wdsYKy5zupPyLCW2Je5DLHSxSfbIp6h80WoHOQc+RPtmPGA52O9x5MJEkv92Sjonpq+poOAtUKhh1kBGAXBrNA==
-  dependencies:
-    "@babel/code-frame" "^7.10.4"
-    "@babel/runtime" "^7.12.5"
-    "@types/aria-query" "^5.0.1"
-    aria-query "5.3.0"
-    chalk "^4.1.0"
-    dom-accessibility-api "^0.5.9"
-    lz-string "^1.5.0"
-    pretty-format "^27.0.2"
-
 "@testing-library/jest-dom@^6.4.6":
   version "6.4.8"
   resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-6.4.8.tgz#9c435742b20c6183d4e7034f2b329d562c079daa"
@@ -9359,10 +9345,10 @@ slash@^4.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
-snyk@^1.1291.1:
-  version "1.1292.1"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1292.1.tgz#f170ca0d7b05c6b6d67e50d1de51f0990a9737c6"
-  integrity sha512-wRJ6twqbr2KGf0Y8EmnuOKDawNbzNSGebEvmXVRIz0MZgvZhiK9FZQHiwfWr/XTXSx7mAp3zrsKcLsOGFkg6fQ==
+snyk@^1.1297.3:
+  version "1.1297.3"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1297.3.tgz#0b4b75d40529560498d375e88e6a892484def35c"
+  integrity sha512-D4gj5Yeg0IdLUfrYObaj/qhg/k7ONO/OmPY8aa3JpZoo/dH3kecUjUqyPgfL9mq7kFswZO5Piwno6PmZ7Dv8Ig==
   dependencies:
     "@sentry/node" "^7.36.0"
     global-agent "^3.0.0"
